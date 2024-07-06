@@ -1,3 +1,6 @@
+[download](contents/download.ps1)
+
+
 ```
 powershell -ExecutionPolicy ByPass -File "/c/Users/vvn20206205/Desktop/windows/contents/main.ps1"
 ```
@@ -6,6 +9,8 @@ powershell -ExecutionPolicy ByPass -File "/c/Users/vvn20206205/Desktop/windows/c
 Hướng dẫn Windows PowerShell
 
 
+
+ 
 
 
 chrome
