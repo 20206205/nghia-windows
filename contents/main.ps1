@@ -130,3 +130,17 @@ $shortcut.WindowStyle = 1
 $shortcut.Description = "Shortcut to Startup Folder"
 $shortcut.IconLocation = "shell32.dll, 34"
 $shortcut.Save()
+
+
+
+
+
+
+
+
+# ! Cài đặt chocolatey
+Write-Host "xxxxxxxxxxxxxxxxx"
+
+
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))

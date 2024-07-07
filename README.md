@@ -8,6 +8,15 @@ powershell -ExecutionPolicy ByPass -File main.ps1
 
 Hướng dẫn Windows PowerShell
 
+
+
+Cài đặt
+
+
+chocolatey
+
+
+
 chrome
 
 <!--  -->
